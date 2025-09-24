@@ -17,9 +17,9 @@ It has a clean UI, smooth animations, and all the basic controls you need for pl
 
 ## 🖼️ Preview  
 
-![Music Player Preview] <img width="1286" height="880" alt="image" src="https://github.com/user-attachments/assets/b75f897a-c3d2-4506-b545-68940300d3b0" />
+ <img width="1286" height="880" alt="image" src="https://github.com/user-attachments/assets/b75f897a-c3d2-4506-b545-68940300d3b0" />
 
- 
+
 
 ---
 
@@ -31,6 +31,4 @@ It has a clean UI, smooth animations, and all the basic controls you need for pl
 
 ---
 
-
- ┗ 🧠 script.js
 
